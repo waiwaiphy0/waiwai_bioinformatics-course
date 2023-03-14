@@ -1,1 +1,1 @@
-# waiwai_bioinformatics-course
+# waiwai_bioinformatics 
